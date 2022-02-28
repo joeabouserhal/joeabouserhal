@@ -8,3 +8,5 @@
   - Game development
   - React JS
   - Node JS
+  - C#
+  - C++
