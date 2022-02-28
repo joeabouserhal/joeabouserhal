@@ -14,7 +14,7 @@
 ## And here's some code to make my profile look extra codey
 ```
 def main():
-  name = joe
+  print("Hi, I'm Joe Abou Serhal")
  
 if __name__ == "__main__":
   main()
