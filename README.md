@@ -11,3 +11,5 @@
   - Node JS 🔷
   - C++ (🤷🏻‍♂️ idk ran out of emojis)
 ----
+## And here's some code to make my profile look extra codey
+code()
