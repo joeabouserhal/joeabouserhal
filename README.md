@@ -11,7 +11,7 @@
   - Node JS 🔷
   - C++ (🤷🏻‍♂️ idk ran out of emojis)
 ----
-# And here's some code to make my profile look extra codey
+### And here's some code to make my profile look extra codey
 ```
 def main():
   print("Hi, I'm Joe Abou Serhal")
