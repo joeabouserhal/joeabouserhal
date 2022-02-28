@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning:
-  - Python
-  - Flutter
+  - Python 🐍
+  - Flutter 🎯
 
 - 🔭 I’m looking forward to learn:
-  - Game development
-  - React JS
-  - Node JS
-  - C#
-  - C++
+  - C# #️⃣
+  - Game development 🕹️
+  - React JS ⚛️
+  - Node JS 🔷
+  - C++ (🤷🏻‍♂️ idk ran out of emojis)
