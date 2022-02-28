@@ -12,4 +12,10 @@
   - C++ (🤷🏻‍♂️ idk ran out of emojis)
 ----
 ## And here's some code to make my profile look extra codey
-`name = joe`
+`
+def main():
+  name = joe
+ 
+if __name__ == "__main__":
+  main()
+ `
