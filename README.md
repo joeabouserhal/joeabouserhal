@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning:
+- 🌱 I’m currently learning and actively using:
   - Python 🐍
   - Flutter 🎯
+  - Firebase 🔥
 
 - 🔭 I’m looking forward to learn:
   - C# #️⃣
