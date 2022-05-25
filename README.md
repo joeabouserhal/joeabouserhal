@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning and actively using:
+  - Java ☕
   - Python 🐍
   - Flutter 🎯
   - Firebase 🔥
