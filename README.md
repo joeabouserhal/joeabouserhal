@@ -4,6 +4,7 @@
   - Java ☕
   - Python 🐍
   - Flutter 🎯
+  - React ⚛️
   - Firebase 🔥
 
 - 🔭 I’m looking forward to learn:
