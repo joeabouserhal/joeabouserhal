@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning and actively using:
   - Java ☕
   - Python 🐍
+  - Javascript 🟨
   - Flutter 🎯
   - React ⚛️
   - Firebase 🔥
