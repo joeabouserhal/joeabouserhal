@@ -6,6 +6,9 @@ Just a computer science graduate with a thing for computers and software
 ### Tools i use
 ![My Skills](https://skillicons.dev/icons?i=vscode,neovim,powershell,androidstudio,git,github,vercel)
 
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeabouserhal&theme=transparent&layout=compact&hide_title=true&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Get in touch
 <p>
   <a href="https://www.linkedin.com/in/joe-abou-serhal-9b90361bb/">
