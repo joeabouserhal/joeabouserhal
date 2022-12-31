@@ -1,23 +1,35 @@
-## Hi, I'm Joe Abou Serhal 👋
-Just a computer science graduate with a thing for computers and software
-### Skills and Tech
-![My Skills](https://skillicons.dev/icons?i=react,vite,ts,js,html,css,tailwind,flutter,python,java,firebase,mysql,linux)
+Hi 👋 My name is Joe Abou Serhal
+================================
 
-### Tools i use
-![My Skills](https://skillicons.dev/icons?i=vscode,neovim,powershell,androidstudio,git,github,vercel)
+Tech is cool and i like it
+--------------------------
 
-### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeabouserhal&theme=transparent&layout=compact&hide_title=true&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+Just a computer science graduate with a thing for computers and software, and i've been coding since 2019
 
-### Get in touch
-<p>
-  <a href="https://www.linkedin.com/in/joe-abou-serhal-9b90361bb/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/joe.abou.serhal/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://twitter.com/joeabouserhal">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+* 🌍  I'm based in Lebanon
+* 🖥️  See my portfolio at [Portfolio](http://joeabouserhal.vercel.app)
+* ✉️  You can contact me at [joeabouserhal77777@gmail.com](mailto:joeabouserhal77777@gmail.com)
+* 🚀  I'm currently working on [Bug Hunter Network](http://https://bug-hunter-network.vercel.app/)
+* 🧠  I'm learning React
+* 🤝  I'm open to collaborating on anything
+
+### Skills
+
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/joeabouserhal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/joe.abou.serhal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joe-abou-serhal-9b90361bb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/joeabouserhal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
