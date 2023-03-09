@@ -10,7 +10,7 @@ Just a computer science graduate with a thing for computers and software, and i'
 * 🖥️  See my portfolio at [Portfolio](http://joeabouserhal.vercel.app)
 * ✉️  You can contact me at [joeabouserhal77777@gmail.com](mailto:joeabouserhal77777@gmail.com)
 * 🚀  I'm currently working on [Bug Hunter Network](http://https://bug-hunter-network.vercel.app/)
-* 🧠  I'm learning React
+* 🧠  I'm learning ExpressJS and PostgreSQL
 * 🤝  I'm open to collaborating on anything
 
 ### Skills
